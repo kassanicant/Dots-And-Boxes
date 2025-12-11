@@ -1,0 +1,18 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1765470883
+icon.svg::CompressedTexture2D/CompressedTexture2D::6750907664704198180::1765469669::1765469676::1::::<><><>0<>0<>efae5529a4153746501f51a1fef591ce<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://ASSETS/::1765472847
+BackBtn.png::CompressedTexture2D::9008243125177103015::1765472698::1765472865::1::::<><><>0<>0<>6adb9b27c9ad6fbb8102dbf87041392e<>res://.godot/imported/BackBtn.png-94e8e9670d44e7f33846ec668cdac37e.ctex::
+Background Music.wav::AudioStreamWAV::7811006510746837662::1765472731::1765472866::1::::<><><>0<>0<>5244477d34381abbe05c150102468b15<>res://.godot/imported/Background Music.wav-3643f9fe190d8e97e72d6c9fcc4c6f84.sample::
+Background.png::CompressedTexture2D::3135540635799666890::1765470431::1765472865::1::::<><><>0<>0<>ba7da40f1bcf0e52a9dbe1ef12bb48a2<>res://.godot/imported/Background.png-563bff43f57aec33d6ba6af17cd0ebc4.ctex::
+BlackPenCursor.png::CompressedTexture2D::7749064441280128730::1765471245::1765472865::1::::<><><>0<>0<>f6eeae06fbbff38f701a7183134c2470<>res://.godot/imported/BlackPenCursor.png-69e0e0d3ffcb69d2adf6981dd766a31d.ctex::
+BluePenCursor.png::CompressedTexture2D::2764556235647548378::1765470740::1765472865::1::::<><><>0<>0<>b7ca024661cb3ca82cfa6319ec528572<>res://.godot/imported/BluePenCursor.png-028b8c268d72e365698bca7544ed9212.ctex::
+Click(PenSound).wav::AudioStreamWAV::6925594653547024505::1765472346::1765472865::1::::<><><>0<>0<>ddc4b4919dd899b524ba8c482aad5c22<>res://.godot/imported/Click(PenSound).wav-2f87c24fabf18e60a43ab860c8f8861e.sample::
+HowToPlay.png::CompressedTexture2D::4436866339110348594::1765471425::1765472865::1::::<><><>0<>0<>41b1c09e17f3f5dfdf3fab22a02ae151<>res://.godot/imported/HowToPlay.png-7d3c59e051ddb3556cfd7af4c2fd91a0.ctex::
+PlayBotBtn.png::CompressedTexture2D::197188542986304018::1765472062::1765472865::1::::<><><>0<>0<>ab31239feb371a5d4cd648db0d9a14fa<>res://.godot/imported/PlayBotBtn.png-2bd6f69fb6d210676e55ea55084a24f8.ctex::
+PlayBtn.png::CompressedTexture2D::8857056153608771681::1765471460::1765472865::1::::<><><>0<>0<>cb56080cb3f7be68290364b72c0f04d6<>res://.godot/imported/PlayBtn.png-4b15d3d414a97df30a40a29b28ecd0ac.ctex::
+PlayFriendBtn.png::CompressedTexture2D::3247926022205552641::1765472056::1765472865::1::::<><><>0<>0<>43d00c973df83d4c48418187c71aad6a<>res://.godot/imported/PlayFriendBtn.png-6f9b483d2df933bd16e0d32a3589509d.ctex::
+RedPenCursor.png::CompressedTexture2D::7529881117363998054::1765470796::1765472865::1::::<><><>0<>0<>457dab1d202cf7eabc30bde5c42607a5<>res://.godot/imported/RedPenCursor.png-634db2e311236506b19c150c0e1bb0ce.ctex::
+Scribble.wav::AudioStreamWAV::7876470526343398912::1765472296::1765472865::1::::<><><>0<>0<>7aaa76225501c2f29d09b78c1265b090<>res://.godot/imported/Scribble.wav-423f2768a2ac41c9eb6e338b84f523bc.sample::
+::res://Scenes/::1765469762
+Game.tscn::PackedScene::7528774857578332250::1765469747::0::1::::<><><>0<>0<><>::
